@@ -8,7 +8,7 @@ This analysis aimed to detect outliers in polling unit (PU) voting patterns usin
 - **Geospatial Analysis in Python:** Identified neighboring PUs within a 10 km radius using geodesic distances and calculated outlier scores for each major political party (APC, LP, PDP, NNPP) based on deviations from neighboring units' voting patterns.
 
 ### Links to Detailed Documentation
-- [View Full Analysis on Jupyter Notebook](file:///C:/Users/Kabeera/Downloads/SOKOTO%20Election%20Analysis%20(1).html)
+- View Full Analysis on Jupyter Notebook - file:///C:/Users/Kabeera/Downloads/SOKOTO%20Election%20Analysis%20(1).html
 - [Read Full Documentation on Medium](https://medium.com/@kabirabusari/geospatial-outlier-detection-in-sokoto-states-2023-elections-40dfb6c6c645)
 - [View Google Sheets Data Preparation](https://docs.google.com/spreadsheets/d/1Hg0Ej0GWhARuwYbLwLJXePIE7FLlmIlsxI1W9_MjKI4/edit?usp=sharing)
 
